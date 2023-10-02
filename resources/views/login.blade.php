@@ -1,21 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200;300;400;500;600;700;800&family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/styles.css">
-    <link rel="icon" href="{{ asset('assets/images/logo.png') }}">
-
-    <title>Berbinar Psikotes</title>
-
-    @vite('resources/css/app.css')
-</head>
-{{-- <body>
+<body>
     <div class="flex">   
         <div class="w-2/5 mx-auto text-center">
             <img src="{{ asset('assets/images/logo.png') }}" class="w-[62px] h-[62px] ml-6 mt-8" alt="Logo-Berbinar">
@@ -37,5 +20,5 @@
             <img src="{{ asset('assets/images/ilustrasi_test.png') }}" alt="Ilustrasi-Test" class="m-auto w-[820px]">
         </div>
     </div>
-</body> --}}
+</body>
 </html>
