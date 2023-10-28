@@ -36,7 +36,7 @@
                 </div>
             </div>
             <div class="mt-14">
-                <button id="startBtn" onclick="redirect()" class="px-16 py-3 text-white bg-primary rounded-3xl">Start</button>
+                <button id="startBtn" onclick="redirect()" class="px-16 py-3 text-white bg-primary rounded-3xl hover:bg-sky-950">Start</button>
             </div>
             <p class="mt-24 mb-10 text-gray-400 text-center -ml-12">Copyright © PT Berbinar Insightful Indonesia. 2023</p>
         </div>

@@ -31,7 +31,7 @@
                 <a href="/login" class="text-primary">Masuk Sekarang</a>
             </div>
             <div class="mt-6">
-                <a href="#" class="px-10 py-3 text-white bg-primary rounded-3xl">Create Account</a>
+                <a href="#" class="px-10 py-3 text-white bg-primary rounded-3xl hover:bg-sky-950">Create Account</a>
             </div>
             <p class="mt-24 mb-6 text-gray-400">Copyright © PT Berbinar Insightful Indonesia. 2023</p>
         </div>

@@ -29,7 +29,7 @@
                     <a href="/register" class="text-primary">Daftar Sekarang</a>
                 </div>
                 <div class="mt-6">
-                    <a href="/dashboard" class="px-10 py-3 text-white bg-primary rounded-3xl">Login</a>
+                    <a href="/dashboard" class="px-10 py-3 text-white bg-primary rounded-3xl hover:bg-sky-950">Login</a>
                 </div>
                 <p class="mt-40 text-gray-400">Copyright © PT Berbinar Insightful Indonesia. 2023</p>
             </div>
